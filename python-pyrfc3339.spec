@@ -34,7 +34,7 @@ BuildRequires:	python3-pytz
 BuildArch:	noarch
 
 %description
-This package contains a python library to parse and generate RFC
+This package contains a Python 2 library to parse and generate RFC
 3339-compliant timestamps using Python datetime.datetime objects.
 
 %package -n python3-pyrfc3339
