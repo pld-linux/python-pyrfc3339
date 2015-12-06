@@ -18,14 +18,14 @@ URL:		https://pypi.python.org/pypi/pyRFC3339
 BuildRequires:	rpm-pythonprov
 BuildRequires:	rpmbuild(macros) >= 1.713
 %if %{with python2}
-BuildRequires:	python-devel
+BuildRequires:	python-setuptools
 %if %{with tests}
 BuildRequires:	python-nose
 BuildRequires:	python-pytz
 %endif
 %endif
 %if %{with python3}
-BuildRequires:	python3-devel
+BuildRequires:	python3-setuptools
 %if %{with tests}
 BuildRequires:	python3-nose
 BuildRequires:	python3-pytz
