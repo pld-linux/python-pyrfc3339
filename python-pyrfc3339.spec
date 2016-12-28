@@ -9,7 +9,7 @@
 Summary:	Generate and parse RFC 3339 timestamps
 Name:		python-pyrfc3339
 Version:	1.0
-Release:	1
+Release:	2
 License:	MIT
 Source0:	https://pypi.python.org/packages/source/p/pyRFC3339/pyRFC3339-%{version}.tar.gz
 # Source0-md5:	0f7edd7ffd756a582eeef9282fecb60d
