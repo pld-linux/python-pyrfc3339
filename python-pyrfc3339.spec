@@ -8,11 +8,11 @@
 %define		module	pyRFC3339
 Summary:	Generate and parse RFC 3339 timestamps
 Name:		python-pyrfc3339
-Version:	1.0
-Release:	3
+Version:	1.1
+Release:	1
 License:	MIT
 Source0:	https://pypi.python.org/packages/source/p/pyRFC3339/pyRFC3339-%{version}.tar.gz
-# Source0-md5:	0f7edd7ffd756a582eeef9282fecb60d
+# Source0-md5:	c829980738b8271b0179ffd0c41187b0
 Group:		Libraries/Python
 URL:		https://pypi.python.org/pypi/pyRFC3339
 BuildRequires:	rpm-pythonprov
