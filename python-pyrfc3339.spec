@@ -8,7 +8,7 @@ Summary:	Generate and parse RFC 3339 timestamps
 Summary(pl.UTF-8):	Generowanie i analiza znaczników czasu RFC 3339
 Name:		python-pyrfc3339
 Version:	1.1
-Release:	6
+Release:	7
 License:	MIT
 #Source0Download: https://pypi.org/simple/pyRFC3339/
 Source0:	https://files.pythonhosted.org/packages/source/p/pyRFC3339/pyRFC3339-%{version}.tar.gz
